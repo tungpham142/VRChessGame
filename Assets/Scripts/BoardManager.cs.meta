@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a4d35e3c0f9a405498de65edd2cf0d5f
+<<<<<<< HEAD
+timeCreated: 1504896287
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cube: {fileID: 115974, guid: 7a400e96d4650ff4e827a7e727fad81d, type: 2}
+  - selectedMat: {instanceID: 0}
+=======
+timeCreated: 1456245058
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+>>>>>>> e9d3f6a3fc4e32df7e7aea6b5a5bcd5bb31dafe6
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

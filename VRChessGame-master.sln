@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChessGame-master", "VRChessGame-master.csproj", "{2DCA5A1C-866E-D3B3-D308-0087D4561FE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChessGame-master.Plugins", "VRChessGame-master.Plugins.csproj", "{79374331-57E0-24F1-4D48-61091F0656D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChessGame-master.Editor", "VRChessGame-master.Editor.csproj", "{BBF06FE5-9952-36CB-7C64-C980B32E1A28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DCA5A1C-866E-D3B3-D308-0087D4561FE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DCA5A1C-866E-D3B3-D308-0087D4561FE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DCA5A1C-866E-D3B3-D308-0087D4561FE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DCA5A1C-866E-D3B3-D308-0087D4561FE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79374331-57E0-24F1-4D48-61091F0656D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79374331-57E0-24F1-4D48-61091F0656D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79374331-57E0-24F1-4D48-61091F0656D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79374331-57E0-24F1-4D48-61091F0656D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF06FE5-9952-36CB-7C64-C980B32E1A28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF06FE5-9952-36CB-7C64-C980B32E1A28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF06FE5-9952-36CB-7C64-C980B32E1A28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF06FE5-9952-36CB-7C64-C980B32E1A28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChessGame", "Assembly-CSharp-firstpass.csproj", "{9BE6E9ED-F358-0C69-91DD-880FF0632E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChessGame", "Assembly-CSharp.csproj", "{0BF47B9B-9ACA-9DCE-2E4A-3016B1A05A45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRChessGame", "Assembly-CSharp-Editor.csproj", "{5ACF3AB9-7F36-0D04-3B6C-2A8CF759B3E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE6E9ED-F358-0C69-91DD-880FF0632E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE6E9ED-F358-0C69-91DD-880FF0632E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE6E9ED-F358-0C69-91DD-880FF0632E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE6E9ED-F358-0C69-91DD-880FF0632E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF47B9B-9ACA-9DCE-2E4A-3016B1A05A45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF47B9B-9ACA-9DCE-2E4A-3016B1A05A45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF47B9B-9ACA-9DCE-2E4A-3016B1A05A45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF47B9B-9ACA-9DCE-2E4A-3016B1A05A45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ACF3AB9-7F36-0D04-3B6C-2A8CF759B3E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ACF3AB9-7F36-0D04-3B6C-2A8CF759B3E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ACF3AB9-7F36-0D04-3B6C-2A8CF759B3E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ACF3AB9-7F36-0D04-3B6C-2A8CF759B3E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
